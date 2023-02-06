@@ -42,8 +42,29 @@ Key elements of the above map:
 * The more occurences there are of a transfer request on a particular route, within the filtered time period, the thicker the line will appear on the map. 
 
 
+## Analysis with Calplot
+I used the Calplot python library to create heatmaps for demand patterns over time. 
+
+Here is one of the heatmaps, showing the clear drop in demand over the weekends: 
+
+<img title="All routes"  src="./images/all-routes.png">
+
+I also printed out the same calendar format heatmap for each of the top 20 referring and receiving facilities: 
+<img title="All routes"  src="./images/delft.png">
+
+And then also used heatmaps in Seaborn to drill down into hourly patterns across the week: 
+
+<img title="All routes"  src="./images/week.png">
+
+Again, this was done for the top 20 referring and receiving facilities, to identify the trends at play at each of the busiest facilities: 
+
+<img title="All routes"  src="./images/mitchel.png">
+
+
 ## Results & Current Status 
-Thanks in large part to the data gathered, the team was able to secure buy-in for the IFT vs Emergencies split, and managed to create a preliminary set of circuits and associated resource allocations. It's still too early to assess the full impact of the change, but it holds much promise for reducing waiting times for hospital staff who desperately need their beds freed up. 
+Thanks in large part to the data gathered, the team was able to secure buy-in for the IFT vs Emergencies split, and managed to create a preliminary set of circuits and associated resource allocations. 
+
+It's still too early to assess the full impact of the change, but it holds much promise for reducing waiting times for hospital staff who desperately need their beds freed up. 
 
 
 ## Some lessons in Failure
