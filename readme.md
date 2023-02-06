@@ -2,7 +2,7 @@
 The Glenday Sieve is an approach to identifying common groups of procedures, conditions or activities in healthcare. These processes are grouped by volume of activity in the first instance, helping you to identify specific areas that could be the focus of improvement efforts. Focusing improvement on a few, high volume activities can deliver significant gains for the organisation.
 The approach has its origins in the Pareto principle, but has a stronger operational focus. 
 
-In this project, we worked with the Western Cape Emergency Medical Services, to apply the principles of the Glenday Sieve to InterFacility Transfers (IFT) between one hospital and another. As predicted by Glenday, the Pareto principle applied, and a small number of routes (just 2% of all routes) made up the majority (50%+) of the workload. 
+In this project, we worked with the Western Cape Emergency Medical Services, to apply the principles of the Glenday Sieve to InterFacility Transfers (IFT) between one hospital and another. As predicted by Glenday, the Pareto principle applied, and a small number of routes (just 20% of all routes) made up the majority (95%) of the workload. 
 
 Below are the general guidelines provided by the Glenday sieve for each category of "product": 
 
