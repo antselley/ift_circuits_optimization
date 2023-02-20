@@ -62,8 +62,7 @@ Again, this was done for the top 20 referring and receiving facilities, to ident
 
 
 ## Results & Current Status 
-Thanks in large part to the data gathered, the team was able to secure buy-in for the IFT vs Emergencies split, and managed to create a preliminary set of circuits and associated resource allocations. 
-
+The team was able to secure buy-in for the IFT vs Emergencies split, and managed to create a preliminary set of circuits and associated resource allocations. 
 It's still too early to assess the full impact of the change, but it holds much promise for reducing waiting times for hospital staff who desperately need their beds freed up. 
 
 
